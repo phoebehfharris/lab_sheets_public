@@ -6,3 +6,4 @@ lab7/iris.pdf
 .DS_Store
 **/.DS_Store
 .idea
+*.virtual_documents*
